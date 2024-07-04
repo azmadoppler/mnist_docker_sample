@@ -49,7 +49,7 @@
 4. サーバー上の適当なフォルダにclone
 
     ```
-    git clone https://github.com/w034ff/mnist_docker_sample.git
+    git clone https://github.com/azmadoppler/mnist_docker_sample.git
     ```
 
 5. 4でcloneしたサーバー上のmnist_docker_sampleフォルダに移動
